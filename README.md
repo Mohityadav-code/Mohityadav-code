@@ -3,7 +3,7 @@
 
 ## About Me
 
-* 👋 Hi, I’m Prashant Kumar Dey
+* 👋 Hi, I’m Mohit Kumar Yadav
 * 👀 I’m interested in Development, Full Stack Applications
 * 🌱 I’m currently learning React Native
 * 💞️ I’m looking to collaborate on MERN Projects
