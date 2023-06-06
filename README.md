@@ -1,11 +1,12 @@
 # Welcome to My GitHub Profile!
 
-## Overview
+## About Me
 
-Welcome to my GitHub profile! This is where I share my projects, code snippets, and contributions to the developer community. Feel free to explore the repositories and contributions listed below.
-
-- 🔭 I have **{45+}** repositories on GitHub.
-- 🌱 In total, I've made **{430+}** commits.
+* 👋 Hi, I’m Prashant Kumar Dey
+* 👀 I’m interested in Development, Full Stack Applications
+* 🌱 I’m currently learning React Native
+* 💞️ I’m looking to collaborate on MERN Projects
+* ❤️‍🔥 I'm versed with and can create application using MEAN, Django & flask.
 
 ## Contributions
 
