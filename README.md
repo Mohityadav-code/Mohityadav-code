@@ -7,7 +7,7 @@
 * 👀 I’m interested in Development, Full Stack Applications
 * 🌱 I’m currently learning React Native
 * 💞️ I’m looking to collaborate on MERN Projects
-* ❤️‍🔥 I'm versed with and can create applications using MEAN, Django & Flask.
+* ❤️‍🔥 I'm versed with and can create applications using MERN, Django & Flask.
 
 ## Contributions
 
