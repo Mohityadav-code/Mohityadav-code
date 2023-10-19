@@ -5,7 +5,7 @@
 
 * 👋 Hi, I’m Mohit Kumar Yadav
 * 👀 I’m interested in Development, Full Stack Applications
-* 🌱 I’m currently learning React Native
+* 🌱 I’m currently learning NextJs
 * 💞️ I’m looking to collaborate on MERN Projects
 * ❤️‍🔥 I'm versed with and can create applications using MERN, Django & Flask.
 
