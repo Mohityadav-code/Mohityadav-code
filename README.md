@@ -9,7 +9,7 @@
 * 💞️ I’m looking to collaborate on MERN Projects
 * ❤️‍🔥 I'm versed with and can create applications using MERN, Django & Flask.
 
-## Contributions
+## 
 
  
 
