@@ -13,7 +13,7 @@
 deployed websites at upGrad campus : 
 1. https://upgrad-actima-pune.com/
 2. https://job-application-process-executive.upgradcampus.com/
-3. Career Portal used by more than 4500 + students to see and apply to drive profile management.
+3. Career Portal used by more than 4500 + students to see and apply to drive & their profile management.
 4. Admin Dashboard to manage drives , candidates and everything related to Career Portal .
 
 deployed websites at Techhive Technology : 
