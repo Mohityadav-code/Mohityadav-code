@@ -9,11 +9,29 @@
 * 💞️ I’m looking to collaborate on MERN Projects
 * ❤️‍🔥 I'm versed with and can create applications using MERN, Django & Flask.
 
-## 
+## Projects 
+deployed websites at upGrad campus : 
+1. https://upgrad-actima-pune.com/
+2. https://job-application-process-executive.upgradcampus.com/
+3. Career Portal used by more than 4500 + students to see and apply to drive profile management.
+4. Admin Dashboard to manage drives , candidates and everything related to Career Portal .
+
+deployed websites at Techhive Technology : 
+1. https://techhivetechnology.com/
+2. Cab booking - https://chennaicabs.in/
+3. Dedicated admin dashboard to manage all cabs 
+
+Other miscellaneous projects :
+1. Ams project - https://ams-by-mosquo.netlify.app/
+2. Resume builder : https://tranquil-trifle-7e4027.netlify.app/
+3. Admission Form : https://cms-admission-form.netlify.app/
+4. Client Project - Simple Carate website :https://tangerine-twilight-278cbf.netlify.app/
+5. Techhive website v1 :  https://magenta-swan-76baca.netlify.app/
+6. Security System One Page Application : https://heroic-sopapillas-9c3a08.netlify.app/
+7. Client Project - Service Page : https://toyodigitalinnovation.com/
 
  
-
-Others things that i do
+Other Stuffs : 
 Api testing : in network section looking at api's of music web apps, websites Realted to stock prices, video Downloader from links and many more to see 
 what payload they are sending what response they are getting how much authentic api's are, it's just exciting to see for no reason.
 Also in similar times i do search about ai and stuff have finetuned on gpt api where i have a table and i will be sending i want to filter all students who are from Delhi and have cgpa more than 8 and are good in react
