@@ -22,7 +22,7 @@ deployed websites at Techhive Technology :
 3. Dedicated admin dashboard to manage all cabs 
 
 Other miscellaneous projects :
-1. Ams project - https://ams-by-mosquo.netlify.app/
+1. Assessment Management System , College Management System , Placement Management System . 
 2. Resume builder : https://tranquil-trifle-7e4027.netlify.app/
 3. Admission Form : https://cms-admission-form.netlify.app/
 4. Client Project - Simple Carate website :https://tangerine-twilight-278cbf.netlify.app/
