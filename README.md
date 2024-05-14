@@ -11,6 +11,7 @@ deployed websites at upGrad campus :
 2. https://job-application-process-executive.upgradcampus.com/
 3. Career Portal used by more than 4500 + students to see and apply to drive & their profile management.
 4. Admin Dashboard to manage drives , candidates and everything related to Career Portal .
+5. https://transcendent-semifreddo-0c0c46.netlify.app/
 
 deployed websites at Techhive Technology : 
 1. https://techhivetechnology.com/
