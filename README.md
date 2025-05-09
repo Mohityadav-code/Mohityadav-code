@@ -1,4 +1,4 @@
-# ðŸ‘¨â€ðŸ’» Mohit Yadav | Full Stack Developer
+# Mohit Yadav | Full Stack Developer
 
 <div align="center">
   
@@ -8,7 +8,7 @@
 
 </div>
 
-## ðŸš€ Reaaaccctttt!!!!
+## Reaaaccctttt!!!!
 
 Hey there! I'm Mohit, a passionate Full Stack Developer specializing in MERN stack. From crafting responsive UIs with React to building scalable backends with Node.js, I enjoy solving complex problems through elegant code.
 
@@ -32,7 +32,7 @@ const mohit = {
 };
 ```
 
-## ðŸ’¼ Professional Experience
+## Professional Experience
 
 - **upGrad** - Software Engineer (Aug 2023 - Present)
   - Lead developer for the Learners Career Platform used by 13,000+ users daily
@@ -40,24 +40,25 @@ const mohit = {
   - Implemented real-time notification systems using WebSockets
   - Reduced operational costs by â‚¹2.5 Lakh monthly through automation
 
-- **upGrad Campus** - Full Stack Developer (Jan 2023 - Aug 2023)
+- **upGrad Campus** - Full Stack Developer
   - Developed and maintained career portal for students
+  - Created operations dashboard for the career team
   - Managed AWS Lambda functions, S3 storage, and database operations
+  - Built complete tech stack for the career team
 
-- **Aimerz.ai** - Frontend Developer (Jun 2023 - Jul 2023)
-  - Developed HRGPT application for TriveTogether, an AI-powered HR solution
-
-- **Techhive Technology** - Full Stack Developer (Sep 2022 - Aug 2023)
+- **Techhive Technology (formerly Chennai Cabs)** - Full Stack Developer
   - Created company website and cab booking platform
-  - Built administrative dashboards for educational systems
+  - Built administrative dashboards for fleet management
+  - Engineered educational management systems
 
-- **Blockchain Project** - Freelance Developer (2023)
-  - Resolved critical blockers for a blockchain-based skill assessment platform
-  - Received â‚¹50,000 reward for contributions
+- **Freelance Projects**
+  - **proofOfSkills.org**: Resolved critical blockers for a blockchain-based skill assessment platform
+  - **aimerz.ai**: Helped establish frontend architecture for an early-stage startup
+  - **thriveTogether.ai**: Developed HRGPT application, an AI-powered HR solution
 
-## ðŸ› ï¸ Notable Projects
+## Notable Projects
 
-### UpGrad Campus Projects
+### upGrad & upGrad Campus Projects
 1. [Career Portal](https://job-application-process-executive.upgradcampus.com/) - Used by 4500+ students for job applications & profile management
 2. [UpGrad Actima Pune](https://upgrad-actima-pune.com/)
 3. Admin Dashboard for drive & candidate management
@@ -77,7 +78,7 @@ const mohit = {
 6. [Toyo Digital Innovation](https://toyodigitalinnovation.com/)
 7. Educational Systems - Assessment, College & Placement Management Systems
 
-## ðŸ” Technical Exploration
+## Technical Exploration
 
 ```
 I enjoy diving deep into the web's mechanics:
@@ -95,14 +96,14 @@ I enjoy diving deep into the web's mechanics:
    repetitive tasks.
 ```
 
-## ðŸ“Š GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohityadav-code&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohityadav-code&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## ðŸ› ï¸ Skills
+## Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -119,7 +120,7 @@ I enjoy diving deep into the web's mechanics:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
-## âœ‰ï¸ Get In Touch
+## Get In Touch
 
 <div align="center">
   <a href="mailto:mohit.mern.developer@gmail.com">
