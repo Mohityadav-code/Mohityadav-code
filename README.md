@@ -1,4 +1,9 @@
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="mohityadav-code" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/mohityadav-code?trk=profile-badge">Mohit Yadav</a></div>
+              
+
 # Mohit Yadav | Full Stack Developer
 
 <div align="center">
