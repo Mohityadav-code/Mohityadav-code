@@ -30,7 +30,7 @@ Registered **AuxForge Pvt Ltd**. Went full-time on building the development envi
 When Anthropic's Claude Code source leaked (March 2026), the architecture was ~90% the same as what I'd already built independently. That felt like validation.
 ---
 ## Previously
-- **Software Engineer** at upGrad Led development on a career platform serving 13,000+ daily users
+- **Software Engineer** at upGrad Led development on a career platform & centralized Dashboard across all verticals .
 - **Full Stack Developer** — Built cab booking platforms, educational management systems, and enterprise dashboards
 - **Freelance** — proofOfSkills.org, aimerz.ai, thriveTogether.ai
 ---
